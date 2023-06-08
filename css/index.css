@@ -1,0 +1,54 @@
+html {
+  background-image: url(http://images.squarespace-cdn.com/content/v1/5dd9d739da2df35512fbc897/1574565990829-BQ5M8007NI8FLKQ3JG6I/T%2Bcell%2Bcancer%2Bcell%2Bsignaling%2Breduced.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.Content {
+  font-size: x-large;
+  color: darkgoldenrod;
+  background-color: green;
+  display: inline-block;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  border: forestgreen;
+  text-decoration: underline;
+}
+
+.biotechnologist {
+  text-align: center;
+}
+
+.sign {
+  font-size: 400px;
+  text-align: center;
+  background-color: blanchedalmond;
+  display: inline-block;
+  border: lightseagreen;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.Aleksandr {
+  font-size: 50px;
+  text-align: center;
+  background-color: blanchedalmond;
+  display: inline-block;
+  font-family: "Times New Roman", Times, serif;
+  border: firebrick;
+}
+
+#wrapper {
+  text-align: center;
+}
+
+.Imp {
+  font-size: 20px;
+  text-align: center;
+  color: indianred;
+  background-color: aqua;
+  display: table;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  border: royalblue;
+  text-decoration: double;
+}
